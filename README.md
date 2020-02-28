@@ -6,3 +6,5 @@ a single digit in the range 0-9 and is in a 1-to-1 correspondence with rows in t
 This code was written on Google colab
 
 data file and label file is uploaded.
+
+bias term is added before-hand to every row to make the code simple.
